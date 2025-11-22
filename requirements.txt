@@ -7,3 +7,4 @@ requests
 pycoingecko
 Pillow
 pycoingecko
+pycoingecko
