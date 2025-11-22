@@ -4,7 +4,5 @@ matplotlib
 seaborn
 beautifulsoup4
 requests
-pycoingecko
 Pillow
-pycoingecko
 pycoingecko
