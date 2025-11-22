@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+beautifulsoup4
+requests
+pycoingecko
+Pillow
